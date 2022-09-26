@@ -2,8 +2,8 @@
 ㅤbem-vindo(a) ao meu Github.
 <div align="center">
   <a href="https://github.com/Saintzy66">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saintzy66&show_icons=true&theme=dracula"/>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saintzy66&hide_border=true&theme=dracula&show_icons=true" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saintzy66&show_icons=true&theme=dracula"/>
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saintzy66&hide_border=true&theme=dracula&show_icons=true" />
 </div>
 
 ###  Conexões:
